@@ -1,0 +1,86 @@
+.header {
+    padding: 10px;
+    text-align: center;
+    background-color: #581908;
+    color: white;
+  }
+  
+  .header h1 {
+    font-size: 100px;
+    font-family: Allura;
+  }
+  
+  .header h3 {
+    font-size: 30px;
+    font-family: roboto;
+  }
+  .navbar {
+    overflow: hidden;
+    background-color: #581908;
+  }
+  
+  .navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+  }
+  
+  .navbar a.right {
+    float: right;
+  }
+  
+  .navbar a:hover {
+    background-color: #581908;
+    color: #21D19F;
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .side {
+    flex: 50%;
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .main {
+    font-family: playfair display;
+    background-color: white;
+    color: #581908;
+    padding: 20px;
+    text-align: center;
+}
+
+.main h5 {
+    font-family: open sans;
+}
+
+  
+  .footer {
+    padding: 20px;
+    text-align: center;
+    background: white;
+  }
+
+  .iframe {
+    border: 1px solid black;
+    width: 100%;
+  }
+
+  .output {
+    background: #eee;
+  }
+  
+  .mapouter {
+    text-align: center;
+  }
+  
+  
+  
+  
+  
